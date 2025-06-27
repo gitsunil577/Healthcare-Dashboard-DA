@@ -26,4 +26,4 @@ To develop a centralized and interactive dashboard for analyzing hospital operat
 
 👨‍⚕️ Which doctor has the best performance in terms of number of patients handled?
 
-- Dashboard Interaction <a href="">View Dashboard</a>
+- Dashboard Interaction <a href="https://github.com/gitsunil577/Healthcare-Dashboard-DA/blob/main/Dashboard.png">View Dashboard</a>
