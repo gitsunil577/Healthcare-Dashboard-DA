@@ -37,7 +37,7 @@ To develop a centralized and interactive dashboard for analyzing hospital operat
 
 - Dashboard Design (Excel):Created pivot tables for summary statistics.
 
-- Used slicers and charts (bar, pie, line, radar) for interaction and data segmentation.
+- Used slicers (Gender,Treatment Type,Specialization) and charts (bar, pie, line, area,Donut) for interaction and data segmentation.
 
 - Applied conditional formatting and color themes for better readability.
 
